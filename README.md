@@ -3,13 +3,13 @@ This repository contains GSoC Proposals submitted by various aspirants across th
 **NOTE - This repo is not affiliated with Google or Google Summer of Code**
 
 ## Basic Layout of the repository
-Root folder contains years of GSoC respectively
-Every year folder contains a README.md file, which has a table. Please add the details accordingly. Make sure you add your name in alphabetical order.
+- Root folder contains years of GSoC respectively
+- Every year folder contains a README.md file, which has a table. Please add the details accordingly.
+- Make sure you add your name in alphabetical order.
 
 ```
 |-Year
     |- README.md
-
 ```
 
 ## Contribution to the project

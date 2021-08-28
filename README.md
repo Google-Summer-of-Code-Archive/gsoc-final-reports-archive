@@ -1,5 +1,5 @@
 # GSoC Final Reports Archive
-This repository contains GSoC Proposals submitted by various aspirants across the years. The proposals have been sorted firstly on the basis of the organization to which they were applied and accepted. <br/>
+This repository contains GSoC final reports submitted by various aspirants across the years. <br/>
 **NOTE - This repo is not affiliated with Google or Google Summer of Code**
 
 ## Basic Layout of the repository

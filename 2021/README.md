@@ -2,6 +2,7 @@
 | Name/Username | Name of Organization | Link of Report |
 | --- | --- | --- |
 | [Abhay Singh](https://github.com/ABHAY0O7) | [CASTOR-Software](https://summerofcode.withgoogle.com/projects/#5502019248324608) | [Link to final report](https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/README.md) |
+| [Abhi Kulshrestha](https://github.com/AbhiKul10) | [SCoRe Lab](https://summerofcode.withgoogle.com/projects/#5094755685367808) | [Link to final report](https://github.com/scorelab/GSoC/blob/master/GSoC-2021/01-Abhi%20Kulshrestha-Ask-SCORE-Community-App.md)
 | [Akshat Tiwari](https://github.com/akshaaatt) | [MetaBrainz.org](https://summerofcode.withgoogle.com/projects/#5349611931172864) | [Link to final report](https://akshaaatt.medium.com/gsoc21-winter-is-coming-a9fbcb8c4383) |
 | [Aman Singh](https://github.com/eppisai) | [apertus° Association](https://summerofcode.withgoogle.com/projects/#4661051766865920) | [Link to final report](https://github.com/eppisai/GSoC-Final-Report) |
 | [Ankit Hans](https://github.com/ankithans) | [JBoss(Aerogear)](https://summerofcode.withgoogle.com/projects/#4595512243650560) | [Link to final report](https://ankithans.github.io/gsoc21/) |

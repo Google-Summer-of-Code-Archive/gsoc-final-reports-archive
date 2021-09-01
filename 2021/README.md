@@ -13,3 +13,4 @@
 | [Shubhank Saxena](https://github.com/shubhank-saxena) | [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/organizations/4870958629781504/) | [Link to final report](https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/README.md) |
 | [Siddhant Jain](https://github.com/imsiddhant07) | [DBpedia](https://summerofcode.withgoogle.com/organizations/5460238410448896/) | [Link to final report](https://imsiddhant07.github.io/Neural-QA-Model-for-DBpedia/) |
 | [Vinayak Sharma](https://github.com/vinayaksh42) | [PSF(EOS)](https://summerofcode.withgoogle.com/projects/#6237400713396224) | [Link to final report](https://github.com/vinayaksh42/GSoC-2021-Project-Report) |
+| [Gourab Chakraborty](https://github.com/gourab337) | [Apertium](https://summerofcode.withgoogle.com/projects/#6706322759745536) | [Link to final report](https://gourab337.medium.com/google-summer-of-code-2021-apertium-org-20f9a1c6ea9) |

@@ -7,6 +7,7 @@
 | [Aman Singh](https://github.com/eppisai) | [apertus° Association](https://summerofcode.withgoogle.com/projects/#4661051766865920) | [Link to final report](https://github.com/eppisai/GSoC-Final-Report) |
 | [Ankit Hans](https://github.com/ankithans) | [JBoss(Aerogear)](https://summerofcode.withgoogle.com/projects/#4595512243650560) | [Link to final report](https://ankithans.github.io/gsoc21/) |
 | [Antriksh Misri](https://github.com/antrikshmisri) | [PSF(FURY - Free Unified Rendering in pYthon.)](https://summerofcode.withgoogle.com/organizations/6369944628887552/) | [Link to final report](https://gist.github.com/antrikshmisri/a8d8ee3d38c5b4e70d95c172f471548a) |
+| [Ayush Shrivastava](https://github.com/s-ayush2903) | [freifunk](https://summerofcode.withgoogle.com/projects/#4792427082153984) | [Link to final report](https://blog.freifunk.net/2021/08/21/gsoc21-irdest-android-client-work-report/) |
 | [Dhruva Gole](https://github.com/dhruvag2000) | [BeagleBoard.org](https://summerofcode.withgoogle.com/organizations/6398417846140928/) | [Link to final report](https://dhruvag2000.github.io/Blog-GSoC21/) |
 | [Daksh Paleria](https://github.com/dakshp07) | [CDLI](https://summerofcode.withgoogle.com/organizations/4724093699489792/) | [Link to final report](https://github.com/dakshp07/GSoC2021-Final-Report) |
 | [Manan Jethwani](https://github.com/mananjethwani) | [Kiwix](https://summerofcode.withgoogle.com/projects/#5158540915769344) | [Link to final report](https://mananjethwani.github.io/GSoC-2021-New-Library-Catalogue-UI-for-kiwix-serve/) |

@@ -13,6 +13,7 @@
 | [Ayush Shrivastava](https://github.com/s-ayush2903) | [freifunk](https://summerofcode.withgoogle.com/projects/#4792427082153984) | [Link to final report](https://blog.freifunk.net/2021/08/21/gsoc21-irdest-android-client-work-report/) |
 | [Dhruva Gole](https://github.com/dhruvag2000) | [BeagleBoard.org](https://summerofcode.withgoogle.com/organizations/6398417846140928/) | [Link to final report](https://dhruvag2000.github.io/Blog-GSoC21/) |
 | [Daksh Paleria](https://github.com/dakshp07) | [CDLI](https://summerofcode.withgoogle.com/organizations/4724093699489792/) | [Link to final report](https://github.com/dakshp07/GSoC2021-Final-Report) |
+| [David Port Louis](https://github.com/davidportlouis) | [mlpack](https://summerofcode.withgoogle.com/organizations/6333875426426880) | [Link to final report](https://art3mis-17.medium.com/gsoc21-mlpack-example-zoo-adc5c50a4de2/) |
 | [Manan Jethwani](https://github.com/mananjethwani) | [Kiwix](https://summerofcode.withgoogle.com/projects/#5158540915769344) | [Link to final report](https://mananjethwani.github.io/GSoC-2021-New-Library-Catalogue-UI-for-kiwix-serve/) |
 | [Parth Arora](https://github.com/parth-07) | [CERN-HSF](https://summerofcode.withgoogle.com/projects/#5819561934323712) | [Link to final report](https://gist.github.com/parth-07/a51a32bfa8b435f41e915b040149f7cd) |
 | [Sayan Nath](https://github.com/sayannath) | [TensorFlow](https://summerofcode.withgoogle.com/projects/#4931401570320384) | [Link to final report](https://github.com/sayannath/GSoC-Project-2021) |

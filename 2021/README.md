@@ -27,3 +27,4 @@
 | [Saransh Chopra](https://github.com/Saransh-cpp) | [NumFOCUS (PyBaMM)](https://summerofcode.withgoogle.com/projects/#5045812318437376) | [Link to final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d) |
 | [Shiva Shankar Genji](https://github.com/sh15h4nk) | [Freifunk](https://summerofcode.withgoogle.com/projects/#6381312652345344) | [Link to final report](https://sh15h4nk.github.io/gsoc21-freifunk/) |
 | [Sunit Roy](https://github.com/SunitRoy2703) | [TensorFlow](https://summerofcode.withgoogle.com/projects/#5471261779558400) | [Link to final report](https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow) |
+| [Atharva Arya](https://github.com/atharva-2001) | [TARDIS SN](https://summerofcode.withgoogle.com/projects/#4555893921808384) | [Link to final report](https://sites.google.com/view/atharvaarya/google-summer-of-code-2021-report) |
